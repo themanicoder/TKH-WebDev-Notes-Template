@@ -1,3 +1,5 @@
+
+
 # Week [week#]
 ## [month]/[day] - [month]/[day]
 
@@ -5,7 +7,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [9]/[14]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +17,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. How to use Github
+2. Gmail Labeling
+3. command line
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Fullstack
+2. Backend
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Logical programmin
 
 
 ___
